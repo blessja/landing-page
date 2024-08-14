@@ -137,7 +137,7 @@ footer {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
-  padding: 2rem 5rem;
+  padding: 2rem 10rem 8rem;
   gap: 2rem;
 }
 
@@ -165,6 +165,35 @@ footer {
 .card p {
   color: #7f8c8d;
   font-size: 0.875rem;
+}
+
+.quote {
+  background-color: #e5e7eb;
+  align-items: center;
+  padding: 4rem 10rem;
+}
+
+.quote-div {
+  text-align: left;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1f2937;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.quote-author {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #34495e;
+  text-align: right;
+  padding-top: 1rem;
+}
+
+.contact {
 }
 
 footer {
