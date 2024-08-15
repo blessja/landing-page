@@ -1,6 +1,6 @@
 # Joeden Drone sales and services
 
-This project is part of the[Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
+This project is part of the [Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
 
 <p>It is a landing page for a drone sales and services company. It is built using HTML, CSS and JavaScript.</p>
 
