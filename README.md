@@ -8,4 +8,4 @@ This project is part of the [Odin Project](https://www.theodinproject.com/lesson
 
 <p>The page is hosted on GitHub Pages.</p>
 
-The page is available at <a href="https://joedendroneservices.github.io/landing-page/">https://joedendroneservices.github.io/landing-page/</a>
+The page is available at <a href="https://blessja.github.io/landing-page/">https://blessja.github.io/landing-page/</a>
